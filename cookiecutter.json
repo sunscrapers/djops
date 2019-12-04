@@ -1,0 +1,4 @@
+{
+  "project_name": "mysite",
+  "production_server_name": "www.{{ cookiecutter.project_name.lower().replace(' ', '-') }}.com"
+}
